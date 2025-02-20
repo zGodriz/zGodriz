@@ -23,7 +23,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Conclu�
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zGodriz&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
 </p>
@@ -35,7 +35,6 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Conclu�
 
 ---
 
-## 📫 Entre em contato comigo!
+## 📫 Contato
 📌 **GitHub:** [zGodriz](https://github.com/zGodriz)  
-📌 **LinkedIn:** _adicione seu LinkedIn aqui_  
-📌 **E-mail:** _adicione seu e-mail aqui_  
+📌 **E-mail:** Rodrigocauazgodri@gmail.com 
