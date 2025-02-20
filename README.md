@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Cshar" height="30" width="40" src="https://tenor.com/pt-BR/view/tsukihime-ciel-tsukihime-a-piece-of-blue-glass-moon-tsukihime-remake-ordeal-call-3-gif-1744649716962678430">
+  <img align="center" alt="Rafa-Cshar" height="30" width="40" src="https://tenor.com/view/tsukihime-ciel-type-moon-gif-23837649">
 </div>
 
 
