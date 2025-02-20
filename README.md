@@ -19,6 +19,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Cshar" height="30" width="40" src="https://tenor.com/pt-BR/view/tsukihime-ciel-tsukihime-a-piece-of-blue-glass-moon-tsukihime-remake-ordeal-call-3-gif-1744649716962678430">
 </div>
 
-<div class="tenor-gif-embed" data-postid="1744649716962678430" data-share-method="host" data-aspect-ratio="0.88843" data-width="100%"><a href="https://tenor.com/view/tsukihime-ciel-tsukihime-a-piece-of-blue-glass-moon-tsukihime-remake-ordeal-call-3-gif-1744649716962678430">Tsukihime Ciel GIF</a>from <a href="https://tenor.com/search/tsukihime-gifs">Tsukihime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
