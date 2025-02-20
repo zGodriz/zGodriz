@@ -1,13 +1,13 @@
-# 👋 Olá, eu sou Rodrigo Cauã!
+# 👋 Hello, I'm Rodrigo!
 
-## 🚀 Sobre mim
-Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Concluí o ensino médio com técnico em desenvolvimento de sistemas e tenho experiência em diversas linguagens e tecnologias.
+## 🚀 About Me
+I am a software developer passionate about technology and innovation. I completed high school with a technical degree in software development and have experience with various languages and technologies.
 
-📌 Atualmente, estou sempre aprendendo e aprimorando minhas habilidades para criar soluções eficientes e impactantes.
+📌 Currently, I am always learning and improving my skills to create efficient and impactful solutions.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40"/>
@@ -23,7 +23,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Conclu�
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zGodriz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zGodriz&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
@@ -38,7 +38,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Conclu�
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 📌 **GitHub:** [zGodriz](https://github.com/zGodriz)  
 📌 **E-mail:** Rodrigocauazgodri@gmail.com  
 
