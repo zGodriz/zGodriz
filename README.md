@@ -23,21 +23,22 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Conclu�
 
 ---
 
-## 📊 Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zGodriz&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
-</p>
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zGodriz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zGodriz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zGodriz&theme=tokyonight&layout=compact&custom_title=Linguagens Mais Usadas&langs_count=9"/>
+</div>
 
 ---
 
-   ![](https://github.com/zGodriz/kohaku/blob/main/kohaku-tsukihime.gif)
-
+## 
+<p align="center">
+  <img src="https://github.com/zGodriz/kohaku/blob/main/kohaku-tsukihime.gif" width="300">
+</p>
 
 ---
 
 ## 📫 Contato
 📌 **GitHub:** [zGodriz](https://github.com/zGodriz)  
-📌 **E-mail:** Rodrigocauazgodri@gmail.com 
+📌 **E-mail:** Rodrigocauazgodri@gmail.com  
+
