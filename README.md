@@ -32,7 +32,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Conclu�
 
 ## 🎯 Um pouco de diversão...
 <p align="center">
-  <img src="https://media.tenor.com/7IABUgb7fSAAAAAC/tsukihime-ciel.gif" width="300">
+   ![](https://github.com/zGodriz/kohaku/blob/main/kohaku-tsukihime.gif)
 </p>
 
 ---
