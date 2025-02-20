@@ -28,6 +28,9 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Conclu�
   <img src="https://github-readme-stats.vercel.app/api?username=zGodriz&show_icons=true&theme=dark" alt="Estatísticas do GitHub">
 </p>
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zGodrizh&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 ---
 
    ![](https://github.com/zGodriz/kohaku/blob/main/kohaku-tsukihime.gif)
