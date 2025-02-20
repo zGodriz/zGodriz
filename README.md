@@ -26,7 +26,7 @@ I am a software developer passionate about technology and innovation. I complete
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zGodriz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zGodriz&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zGodriz&theme=dark&layout=compact&custom_title=Technologies&langs_count=9"/>
 </div>
 
 ---
