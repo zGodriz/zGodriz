@@ -30,7 +30,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Conclu�
 
 ---
 
-   ![](https://github.com/zGodriz/zGodriz/blob/main/kohaku-tsukihime.gif)
+   ![](https://github.com/zGodriz/kohaku/blob/main/kohaku-tsukihime.gif)
 
 
 ---
