@@ -32,7 +32,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Conclu�
 
 ## 🎯 Um pouco de diversão...
 <p align="center">
-   ![](https://github.com/zGodriz/kohaku/kohaku-tsukihime.gif)
+   ![](https://github.com/zGodriz/kohaku/blob/main/kohaku-tsukihime.gif)
 </p>
 
 ---
