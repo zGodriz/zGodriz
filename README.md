@@ -33,7 +33,7 @@ I am a software developer passionate about technology and innovation. I complete
 
 ## 
 <p align="center">
-  <img src="https://github.com/zGodriz/kohaku/blob/main/kohaku-tsukihime.gif" width="300">
+  <img src="https://github.com/zGodriz/zGodriz/blob/main/kohaku-tsukihime.gif" width="300">
 </p>
 
 ---
